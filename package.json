@@ -1,0 +1,26 @@
+{
+  "name": "capstone-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/mtanveer2022skipq/capstone-back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtanveer2022skipq/capstone-back/issues"
+  },
+  "homepage": "https://github.com/mtanveer2022skipq/capstone-back#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.3"
+  }
+}
